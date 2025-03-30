@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venessa Jacobsen - RN Resume</title>
+    <style>
+        body {
+            font-family: "Times New Roman", serif;
+            font-size: 14px;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact-info {
+            text-align: center;
+            font-size: 16px;
+            line-height: 1.5;
+            font-weight: bold;
+        }
+        .summary {
+            text-align: center;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .section-title {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-top: 20px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .bold {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="contact-info">
+            <h1>Venessa Jacobsen (Entry-Level RN)</h1>
+            <p>Venessajacobsen1999@gmail.com • (281)-614-9835 • 2301 Lakenheath Drive, Dickinson TX, 77539</p>
+        </header>
+
+        <p class="summary">Compassionate nursing professional with 1,300 hours of hands-on clinical experience, seeking a full-time RN position. Dedicated to delivering exceptional patient care with strong clinical judgment, adaptability in fast-paced environments, and a warm, patient-centered approach.</p>
+
+        <section>
+            <h2 class="section-title">Education</h2>
+            <p><span class="bold">University of Houston Andy and Barbara Gessner College of Nursing</span></p>
+            <p>Bachelor of Science in Nursing, Dec 2025 (anticipated)</p>
+            <p><span class="bold">Sam Houston State University</span></p>
+            <p>Bachelor of Arts in Political Science, Minor in Psychology, May 2021, GPA: 3.85</p>
+        </section>
+
+        <section>
+            <h2 class="section-title">Student Clinical Experience</h2>
+            <p><span class="bold">Houston Methodist Sugar Land, Sugarland, TX</span> (Jan 2025 - Present)</p>
+            <ul>
+                <li>Gained experience in acute care settings, assisting with patient monitoring and assessments.</li>
+                <li>Assisted in developing treatment plans for patients with chronic conditions.</li>
+                <li>Worked alongside nurses and physicians to provide comprehensive patient care.</li>
+            </ul>
+            <p><span class="bold">Houston Behavioral Health, Houston, TX</span> (Jan 2025 - Present)</p>
+            <ul>
+                <li>Assisted in psychiatric evaluations and therapeutic interventions for patients with mental health disorders.</li>
+                <li>Observed and supported medication administration and crisis de-escalation techniques.</li>
+                <li>Provided patient education on coping strategies and mental health management.</li>
+            </ul>
+            <p><span class="bold">St. Peter’s Learning Center for Children, Houston, TX</span> (Jan 2025 - Present)</p>
+            <ul>
+                <li>Monitored children's health, safety, and well-being, identifying signs of illness or distress.</li>
+                <li>Assisted with feeding, hygiene, and age-appropriate activities to support developmental milestones.</li>
+                <li>Observed behavioral patterns and communicated concerns to parents and staff.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 class="section-title">Employment History</h2>
+            <p><span class="bold">Registered Behavioral Technician | Trumpet Behavioral Health</span> (May 2021 - Dec 2023)</p>
+            <ul>
+                <li>Provided ABA therapy for children with autism and developmental disorders.</li>
+                <li>Implemented individualized behavior plans while tracking patient progress.</li>
+            </ul>
+            <p><span class="bold">Research Assistant | Sam Houston State University</span> (Fall 2020 - Summer 2021)</p>
+            <ul>
+                <li>Analyzed and applied research methods using animal models.</li>
+                <li>Administered treatments through intraperitoneal and intramuscular injections.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 class="section-title">Specialized Training & Certificates</h2>
+            <ul>
+                <li>Fluent in English & Spanish (Writing, Reading, and Speaking)</li>
+                <li>CITI Program Course - Working with the IACUC</li>
+                <li>BLS for Healthcare Providers (Valid until Oct 2025)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 class="section-title">Community Outreach & Experience</h2>
+            <p><span class="bold">College of Humanities and Social Sciences Academic Review Panel</span> (Summer 2021)</p>
+            <ul>
+                <li>Reviewed grade appeals, syllabus requirements, and department responses.</li>
+                <li>Facilitated communication between students and professors in academic panel meetings.</li>
+                <li>Initiated alternative solutions to accommodate both parties.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 class="section-title">Awards</h2>
+            <p><span class="bold">Dean’s List</span> (Fall 2019 - Summer 2021)</p>
+        </section>
+
+        <section>
+            <h2 class="section-title">Additional Information</h2>
+            <ul>
+                <li>Computer Skills: Excel, Microsoft Word, PowerPoint, HTML</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
